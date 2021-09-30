@@ -1,0 +1,18 @@
+{
+    "cliente":[
+        {
+            "nome": "João Pedro Lima",
+            "rua": "Francisca Maria de Jesus",
+            "numero": 318,
+            "complemento": "APT 180",
+            "telefone": 11965558774
+        },
+        {
+            "nome": "Maria Aparecida da Silva",
+            "rua": "Prefeito Jaime Monteiro",
+            "numero": 60,
+            "complemento": "Casa",
+            "telefone": 11961415524
+        }
+    ]
+}

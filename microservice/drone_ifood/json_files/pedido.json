@@ -1,0 +1,24 @@
+{
+    "pedido":[
+        {
+            "cliente": "João Pedro Lima",
+            "restaurante": "Taco Loco",
+            "drone": "DRONEIF001",
+            "tempo_entrega": 30,
+            "descricao": "Hamburger com fritas",
+            "valor": 32.5,
+            "data": "29/09/2021",
+            "hora": "13:00:00"
+        },
+        {
+            "cliente": "Maria Aparecida da Silva",
+            "restaurante": "Bendito Bistrô",
+            "drone": "DRONEIF002",
+            "tempo_entrega": 25,
+            "descricao": "Salmão grelhado",
+            "valor": 60.0,
+            "data": "28/09/2021",
+            "hora": "12:30:00"
+        }
+    ]
+}

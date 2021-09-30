@@ -1,0 +1,16 @@
+{
+    "drone":[
+        {
+            "nome_drone": "DRONEIF001",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "em_voo":  false
+        },
+        {
+            "nome_drone": "DRONEIF002",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "em_voo":  false
+        }
+    ]
+}

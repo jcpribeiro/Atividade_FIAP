@@ -1,0 +1,16 @@
+{
+    "restaurante":[
+        {
+            "nome": "Taco Loco",
+            "rua": "José Bonifacio",
+            "numero": 40,
+            "telefone":  1233225299
+        },
+        {
+            "nome": "Bendito Bistrô",
+            "rua": " Avenida Anchieta",
+            "numero": 901,
+            "telefone": 12981468722
+        }
+    ]
+}
